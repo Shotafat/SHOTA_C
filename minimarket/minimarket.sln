@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2", "WindowsFormsApp2\WindowsFormsApp2.csproj", "{3EEC07A6-A5DD-48A5-814C-6D6BA905628C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minimarket", "minimarket\minimarket.csproj", "{6CE00467-29AA-4BDF-BB46-04940DFA267B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EEC07A6-A5DD-48A5-814C-6D6BA905628C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEC07A6-A5DD-48A5-814C-6D6BA905628C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEC07A6-A5DD-48A5-814C-6D6BA905628C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEC07A6-A5DD-48A5-814C-6D6BA905628C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE00467-29AA-4BDF-BB46-04940DFA267B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE00467-29AA-4BDF-BB46-04940DFA267B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE00467-29AA-4BDF-BB46-04940DFA267B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE00467-29AA-4BDF-BB46-04940DFA267B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03454C22-0AC1-4573-B98D-3D77848FF2A5}
+	EndGlobalSection
+EndGlobal
